@@ -1,0 +1,8 @@
+Share broadcast time: 0.000166995184762 (0.00259140459584%)
+Share processing time: 0.032578263964 (0.50554429507%)
+Block creation time: 1.09731589045 (17.0279726666%)
+Share creation time: 0.038597209113 (0.598945324228%)
+Extra time: 5.27553738867 (81.8649463095%)
+Total time: 6.44419574738
+# of blocks created: 7  
+  --------------  
